@@ -1,0 +1,83 @@
+Konu,Soru,Secenek1,Secenek2,Secenek3,Secenek4
+Veritabanı,Hangi veritabanını kullanıyorsunuz?,MySql,MongoDB,FireBase,Sql Server
+Veritabanı,Veritabanınızda en çok hangi tür veri depolanıyor?,Kullanıcı Bilgileri,Ürün Bilgileri,Finansal Veriler,Diğer
+Yapay Zeka,Hangi alanlarda yapay zeka uygulamaları geliştiriyorsunuz?,Görüntü İşleme,Doğal Dil İşleme,Makine Öğrenimi,Robotik
+Yapay Zeka,En çok kullandığınız makine öğrenimi algoritması nedir?,K-Means,Decision Trees,Neural Networks,SVM
+Oyun Programlama,Hangi oyun motorunu kullanıyorsunuz?,Unity,Unreal Engine,Godot,CryEngine
+Oyun Programlama,En sevdiğiniz oyun türü nedir?,FPS,RPG,Strateji,Spor
+Oyun Programlama,Oyunlarınızda genellikle hangi platformları hedefliyorsunuz?,PC,PlayStation,Xbox,Mobile
+Oyun Programlama,En zorlandığınız oyun geliştirme aşaması nedir?,Grafik Tasarım,Programlama,Oyun Tasarımı,Ses Tasarımı
+Mobil Programlama,Hangi mobil platformlarda uygulama geliştiriyorsunuz?,iOS,Android,Cross-platform,Windows Mobile
+Mobil Programlama,En çok kullandığınız mobil programlama dili nedir?,Swift,Kotlin,React Native,Xamarin
+Mobil Programlama,Hangi SDK'ları kullanıyorsunuz?,Firebase,React Native,Flutter,Android Studio
+Yapay Zeka,En sevdiğiniz yapay zeka uygulaması nedir?,Chatbot,Image Recognition,Autonomous Vehicles,Virtual Assistant
+Yapay Zeka,Yapay zeka alanında en çok etkilendiğiniz kişi kimdir?,Andrew Ng,Elon Musk,Fei-Fei Li,Yann LeCun
+Oyun Programlama,Son oyununuzun konusu nedir?,Fantasy,Sci-Fi,Adventure,Sports
+Oyun Programlama,Son oyununuzda en çok gurur duyduğunuz özellik nedir?,Grafik Kalitesi,Gameplay,Storyline,Soundtrack
+Mobil Programlama,En sevdiğiniz mobil uygulama nedir?,Instagram,WhatsApp,TikTok,Spotify
+Mobil Programlama,Mobil uygulama geliştirirken en çok zorlandığınız konu nedir?,UI/UX Tasarımı,Performans Optimizasyonu,Veritabanı Yönetimi,Backend Entegrasyonu
+Veritabanı,En sevdiğiniz veritabanı yönetim sistem nedir?,MySQL,PostgreSQL,SQLite,Oracle
+Veritabanı,Veritabanı tasarımında dikkat ettiğiniz en önemli faktör nedir?,Normalization,Indexing,Data Types,Constraints
+Oyun Programlama,En sevdiğiniz oyun geliştirme şirketi hangisidir?,Blizzard,EA,Ubisoft,Rockstar
+Oyun Programlama,En çok ilham aldığınız oyun nedir?,The Legend of Zelda,The Witcher 3: Wild Hunt,Minecraft,Final Fantasy VII
+Mobil Programlama,En sevdiğiniz mobil oyun nedir?,Candy Crush Saga,Clash Royale,PUBG Mobile,Fortnite
+Mobil Programlama,Mobil uygulama tasarımında dikkat ettiğiniz en önemli faktör nedir?,User-Friendly Interface,Consistent Design Patterns,App Performance,Accessibility
+Veritabanı,En sevdiğiniz veritabanı yönetim sistem nedir?,MySQL,PostgreSQL,SQLite,Oracle
+Veritabanı,Veritabanı tasarımında dikkat ettiğiniz en önemli faktör nedir?,Normalization,Indexing,Data Types,Constraints
+Oyun Programlama,En sevdiğiniz oyun geliştirme şirketi hangisidir?,Blizzard,EA,Ubisoft,Rockstar
+Oyun Programlama,En çok ilham aldığınız oyun nedir?,The Legend of Zelda,The Witcher 3: Wild Hunt,Minecraft,Final Fantasy VII
+Mobil Programlama,En sevdiğiniz mobil oyun nedir?,Candy Crush Saga,Clash Royale,PUBG Mobile,Fortnite
+Mobil Programlama,Mobil uygulama güvenliği konusunda en çok dikkat ettiğiniz şey nedir?,Data Encryption,Authentication,Secure API Communication,Code Obfuscation
+Veritabanı,Veritabanı performans optimizasyonu için hangi stratejileri kullanıyorsunuz?,Indexing,Query Optimization,Database Sharding,Connection Pooling
+Veritabanı,Veritabanı yedekleme ve geri yükleme stratejileriniz nelerdir?,Regular Backups,Mirroring/Replication,Point-in-Time Recovery,Cloud-Based Backup
+Oyun Programlama,Hangi oyun motoru özellikle küçük indie geliştiricilere tavsiye edersiniz?,Godot,Unity,Unreal Engine,CryEngine
+Oyun Programlama,En sevdiğiniz oyun karakteri kimdir?,Geralt of Rivia (The Witcher),Aloy (Horizon Zero Dawn),Master Chief (Halo),Mario (Super Mario Bros.)
+Mobil Programlama,En sevdiğiniz mobil cihaz markası hangisidir?,iPhone,Samsung,Xiaomi,Google Pixel
+Mobil Programlama,Mobil uygulama tasarımında dikkat ettiğiniz en önemli faktör nedir?,User-Friendly Interface,Consistent Design Patterns,App Performance,Accessibility
+Veritabanı,Veritabanı yönetimi konusunda hangi kaynakları takip ediyorsunuz?,Online Courses/Websites,Books,Blogs/Forums,Conferences
+Veritabanı,Veritabanı güvenliği için aldığınız önlemler nelerdir?,Access Control,Encryption,Regular Audits,Security Patching
+Oyun Programlama,En çok hayran olduğunuz oyun geliştirici kimdir?,Hideo Kojima (Kojima Productions),Todd Howard (Bethesda Game Studios),Shigeru Miyamoto (Nintendo),Tim Sweeney (Epic Games)
+Oyun Programlama,Oyun geliştirme sürecinde en çok zorlandığınız an nedir?,Bug Fixing,Feature Implementation,Meeting Deadlines,Team Collaboration
+Mobil Programlama,Hangi mobil uygulama kategorisi sizi daha çok ilgilendirir?,Social Networking,Entertainment,Productivity,Health & Fitness
+Mobil Programlama,Hangi mobil uygulamayı geliştirmek istediğinizi düşünüyorsunuz?,Fitness Tracking App,Language Learning App,Travel Planning App,Food Delivery App
+Veritabanı,Veritabanınızı yedekleme sıklığınız nedir?,Günlük,Haftalık,Aylık,Yıllık
+Veritabanı,En sevdiğiniz NoSQL veritabanı nedir?,MongoDB,Cassandra,CouchDB,RavenDB
+Yapay Zeka,Hangi yapay zeka uygulamasında çalışmak isterdiniz?,Medical Diagnosis Systems,Autonomous Vehicles,Personal Assistant Systems,Chatbot Platforms
+Yapay Zeka,Hangi yapay zeka etiği konusunda daha önemli buluyorsunuz?,Fairness and Bias,Transparency,Privacy,Accountability
+Oyun Programlama,Hangi oyun geliştirme trendi sizi daha çok heyecanlandırıyor?,Virtual Reality (VR),Augmented Reality (AR),Cloud Gaming,Blockchain Integration
+Oyun Programlama,En çok beğendiğiniz oyun grafik motoru nedir?,Unity Engine,Unreal Engine,CryEngine,Frostbite Engine
+Oyun Programlama,En çok takip ettiğiniz oyun geliştirme blogu/kanalı nedir?,Gamasutra,Extra Credits,Game Informer,The Game Developers (YouTube)
+Mobil Programlama,Hangi mobil uygulama iç satın alma stratejisini daha etkili buluyorsunuz?,Freemium (Ücretsiz indirme, iç satın alma),Paid Apps (Ücretli uygulama),Subscription Model (Aylık/ Yıllık abonelik),Ads Revenue (Reklam geliri)
+Mobil Programlama,Hangi mobil uygulama güvenlik önlemlerini uygularsınız?,Biometric Authentication,App Sandboxing,Secure API Communication,Code Obfuscation
+Yapay Zeka,En sevdiğiniz yapay zeka konsepti nedir?,Neural Networks,Genetic Algorithms,Swarm Intelligence,Expert Systems
+Yapay Zeka,Yapay zeka uygulamalarında daha fazla hangi programlama dili kullanılır?,Python,Java,C++,R
+Oyun Programlama,Hangi oyun türünde başarılı olduğunuzu düşünüyorsunuz?,Action,Role-Playing Game (RPG),Strategy,Sports
+Oyun Programlama,Hangi oyun platformunda daha çok vakit geçirirsiniz?,PC,Console (PlayStation, Xbox),Mobile,VR/AR Devices
+Oyun Programlama,En çok ilham aldığınız oyun tasarımcısı kimdir?,Hideo Kojima (Metal Gear Solid),Shigeru Miyamoto (Super Mario Bros.),Cory Barlog (God of War),Amy Hennig (Uncharted)
+Mobil Programlama,En sevdiğiniz mobil uygulama tasarım özelliği nedir?,Intuitive Navigation,Dark Mode Support,Gesture-Based Interaction,Personalization Features
+Mobil Programlama,Hangi mobil uygulama reklam stratejilerini kullanıyorsunuz?,In-App Ads,Interstitial Ads,Video Ads,Native Ads
+Veritabanı,Veritabanı performans optimizasyonu için hangi stratejileri kullanıyorsunuz?,Query Caching,Table Partitioning,Data Compression,In-Memory Databases
+Veritabanı,Veritabanı güvenliği için alınan en son önlem nedir?,Two-Factor Authentication (2FA),Database Auditing,Data Encryption,Regular Security Training
+Oyun Programlama,Hangi oyun geliştirme konferansında en çok heyecanlanırsınız?,Game Developers Conference (GDC),PAX (Penny Arcade Expo),E3 (Electronic Entertainment Expo),Devcom
+Oyun Programlama,En sevdiğiniz oyun geliştirme podcast'i nedir?,Game Maker's Notebook,The Game Dev Show,The AI Alignment Podcast,Lostcast
+Mobil Programlama,Hangi mobil uygulama kategorisi gelecekte daha fazla popüler olur?,Health & Fitness,Education,Finance,Navigation
+Mobil Programlama,Hangi mobil uygulama iç satın alma stratejisini daha etkili buluyorsunuz?,Subscription Model (Aylık/ Yıllık abonelik),Freemium (Ücretsiz indirme, iç satın alma),Paid Apps (Ücretli uygulama),Ads Revenue (Reklam geliri)
+Yapay Zeka,Hangi yapay zeka uygulamasında çalışmak isterdiniz?,Medical Diagnosis Systems,Robotics and Automation,Language Translation Systems,Recommendation Systems
+Yapay Zeka,Hangi yapay zeka etiği konusunda daha önemli buluyorsunuz?,Fairness and Bias,Privacy,Transparency,Security
+Oyun Programlama,Hangi oyun geliştirme trendi sizi daha çok heyecanlandırıyor?,Virtual Reality (VR),Augmented Reality (AR),Cloud Gaming,Blockchain Integration
+Oyun Programlama,En çok beğendiğiniz oyun grafik motoru nedir?,Unity Engine,Unreal Engine,CryEngine,Frostbite Engine
+Oyun Programlama,En çok takip ettiğiniz oyun geliştirme blogu/kanalı nedir?,Gamasutra,Extra Credits,Game Informer,The Game Developers (YouTube)
+Mobil Programlama,Hangi mobil uygulama iç satın alma stratejisini daha etkili buluyorsunuz?,Freemium (Ücretsiz indirme, iç satın alma),Paid Apps (Ücretli uygulama),Subscription Model (Aylık/ Yıllık abonelik),Ads Revenue (Reklam geliri)
+Mobil Programlama,Hangi mobil uygulama güvenlik önlemlerini uygularsınız?,Biometric Authentication,App Sandboxing,Secure API Communication,Code Obfuscation
+Yapay Zeka,En sevdiğiniz yapay zeka konsepti nedir?,Neural Networks,Genetic Algorithms,Swarm Intelligence,Expert Systems
+Yapay Zeka,Yapay zeka uygulamalarında daha fazla hangi programlama dili kullanılır?,Python,Java,C++,R
+Oyun Programlama,Hangi oyun türünde başarılı olduğunuzu düşünüyorsunuz?,Action,Role-Playing Game (RPG),Strategy,Sports
+Oyun Programlama,Hangi oyun platformunda daha çok vakit geçirirsiniz?,PC,Console (PlayStation, Xbox),Mobile,VR/AR Devices
+Oyun Programlama,En çok ilham aldığınız oyun tasarımcısı kimdir?,Hideo Kojima (Metal Gear Solid),Shigeru Miyamoto (Super Mario Bros.),Cory Barlog (God of War),Amy Hennig (Uncharted)
+Mobil Programlama,En sevdiğiniz mobil uygulama tasarım özelliği nedir?,Intuitive Navigation,Dark Mode Support,Gesture-Based Interaction,Personalization Features
+Mobil Programlama,Hangi mobil uygulama reklam stratejilerini kullanıyorsunuz?,In-App Ads,Interstitial Ads,Video Ads,Native Ads
+Veritabanı,Veritabanı performans optimizasyonu için hangi stratejileri kullanıyorsunuz?,Query Caching,Table Partitioning,Data Compression,In-Memory Databases
+Veritabanı,Veritabanı güvenliği için alınan en son önlem nedir?,Two-Factor Authentication (2FA),Database Auditing,Data Encryption,Regular Security Training
+Oyun Programlama,Hangi oyun geliştirme konferansında en çok heyecanlanırsınız?,Game Developers Conference (GDC),PAX (Penny Arcade Expo),E3 (Electronic Entertainment Expo),Devcom
+Oyun Programlama,En sevdiğiniz oyun geliştirme podcast'i nedir?,Game Maker's Notebook,The Game Dev Show,The AI Alignment Podcast,Lostcast
+Mobil Programlama,Hangi mobil uygulama kategorisi gelecekte daha fazla popüler olur?,Health & Fitness,Education,Finance,Navigation
